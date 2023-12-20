@@ -1,21 +1,34 @@
 body {
-  background-color: #8699A3;
-  color: #262730;
-  text-decoration-color: #262730;
+  background-color: #C8F0FF;
+  color: #0C2657;
+  text-decoration-color: #0C2657;
   font-size: 1.5rem;
 
 }
 
+#title-container {
+  width: 100%;
+  text-align: center;
+  color: #70041C;
+  max-height: 200px;
+  font-size: 3.5em; 
+}
+
+#text-container {
+    width: 100%;
+    text-align: center;
+  }
+
 a{
-  color: #125199;
-  text-decoration-color: #125199;
+  color: #087669;
+  text-decoration-color: #087669;
   size: 
 }
 
 a:hover {
-  color: #236FC5;
-  text-decoration-color: #236FC5;
-  background-color: #26C485;
+  color: #087669;
+  text-decoration-color: #087669;
+  background-color: #EDCF82;
 }
 
 img{
