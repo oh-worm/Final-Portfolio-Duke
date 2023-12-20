@@ -1,1 +1,26 @@
+body {
+  background-color: #8699A3;
+  color: #262730;
+  text-decoration-color: #262730;
+  font-size: 1.5rem;
+
+}
+
+a{
+  color: #125199;
+  text-decoration-color: #125199;
+  size: 
+}
+
+a:hover {
+  color: #236FC5;
+  text-decoration-color: #236FC5;
+  background-color: #26C485;
+}
+
+img{
+  position: center;
+  width: 100%;
+  height: auto%;
+}
 
